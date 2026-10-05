@@ -81,8 +81,11 @@ Your support helps cover:
 - 域名和托管费用
 - 开发时间
 
+Donate:
 
+https://opencollective.com/lookcpu
 
+https://afdian.com/a/hehechengchengaaa
 
 
 
