@@ -63,6 +63,26 @@ sudo ./lookcpu all
 
 MIT License. See [LICENSE](LICENSE) for details.
 
+## Support / 赞助
+
+If you find lookcpu useful, consider supporting its development.  
+如果 lookcpu 对你有帮助，欢迎支持它的开发。
+
+Your support helps me keep this project alive while I'm a student.  
+你的支持帮助我在学生阶段维持这个项目。
+
+Your support helps cover:
+- Testing on old hardware
+- Domain and hosting costs
+- Development time
+
+你的支持将用于：
+- 在老硬件上测试
+- 域名和托管费用
+- 开发时间
+
+
+
 
 
 
